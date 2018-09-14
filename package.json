@@ -1,0 +1,25 @@
+{
+  "name": "norc-aws",
+  "version": "0.1.0",
+  "description": "Apache ORC and protobuf binaries built for norc exuction on AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corymickelson/norc-aws.git"
+  },
+  "keywords": [
+    "node-addon-api",
+    "orc",
+    "aws",
+    "lambda"
+  ],
+  "author": "Cory Mickelson <mickelsoncory@gmail.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/corymickelson/norc-aws/issues"
+  },
+  "homepage": "https://github.com/corymickelson/norc-aws#readme"
+}
